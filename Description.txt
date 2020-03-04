@@ -1,0 +1,5 @@
+==== Algoritmo do Labirinto ====
+
+Este algoritmo se trata de um pequeno labirinto. A entrada se caracteriza como uma matriz contendo
+0s, 1s e um elemento que indica a saída 2. Objetivo deste algoritmo é verificar se a matriz possui 
+uma saída válida. 
